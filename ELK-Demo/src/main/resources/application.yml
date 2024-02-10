@@ -1,0 +1,10 @@
+
+# Server settings
+server:
+port: 8080
+servlet:
+context-path: /app
+
+logging:
+  file:
+    path: .
